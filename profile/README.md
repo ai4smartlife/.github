@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the collaborative space for research of the **AI4SmartLife** startup. 
+Welcome to the collaborative space for research of the **AI4SmartLife** group. 
 
 Our Key Research Themes include:
 
